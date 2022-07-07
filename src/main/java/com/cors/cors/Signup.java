@@ -1,8 +1,8 @@
 package com.cors.cors;
 
 public class Signup {
-    String email;
-    String password;
+    private   String email;
+    private String password;
 
     public Signup() {
     }
